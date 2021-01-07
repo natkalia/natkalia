@@ -9,3 +9,15 @@ Learning additionally:
 :gem: C# :gem: ASP.NET Core :gem: Entity Framework :gem: Fluent Validation :gem: unit testing (frontend and backend) :gem: Newman testing
 
 My Linkedin profile: [Natalia Banasiewicz](https://www.linkedin.com/in/nbanasiewicz/)
+
+Some of my projects created mainly in 2019 and beginning of 2020 (both individual and group projects).
+
+1. These projects were created from scratch by me or team from Coderscamp (open web dev camp)
+- TripExpenses App (group project) https://tripexpenses.herokuapp.com/
+- BooksApp (group project) https://bookstore-seven.herokuapp.com/
+- Factfullness Quiz (individual project) https://natkalia.github.io/factfulness-quiz-coderscamp/
+
+2. These projects were created by me during Kodilla webdev bootcamp, so in some cases part of code and design was not fully created by me. Anyway I was trying to put also some additional custom features to most of these projects :)
+- TODO list with React https://list-react-redux.herokuapp.com/
+- Italian restaurant https://italian-restaurant.herokuapp.com/
+- Dystopias JS page https://natkalia.github.io/dystopias-kodilla-6.2/
