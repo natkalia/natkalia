@@ -12,12 +12,18 @@ My Linkedin profile: [Natalia Banasiewicz](https://www.linkedin.com/in/nbanasiew
 
 Some of my projects created mainly in 2019 and beginning of 2020 (both individual and group projects).
 
-1. These projects were created from scratch by me or team from Coderscamp (open web dev camp)
-- TripExpenses App (group project) https://tripexpenses.herokuapp.com/
-- BooksApp (group project) https://bookstore-seven.herokuapp.com/
-- Factfullness Quiz (individual project) https://natkalia.github.io/factfulness-quiz-coderscamp/
+1. These projects were created from scratch by me or with my team from Coderscamp (open web dev camp)
+- TripExpenses App (group project) [DEMO](https://tripexpenses.herokuapp.com/) [REPO](https://github.com/natkalia/Trip-Expenses-App)
+- BooksApp (group project): [DEMO](https://bookstore-seven.herokuapp.com/), [REPO](https://github.com/natkalia/BookStore)
+- BeerApp (group project): [DEMO](https://natkalia.github.io/BeerAPI/), [REPO](https://github.com/natkalia/BeerAPI)
+- Factfullness Quiz (individual project): [DEMO](https://natkalia.github.io/factfulness-quiz-coderscamp), [REPO](https://github.com/natkalia/factfulness-quiz-coderscamp)
+- About me page to learn styles: [DEMO](https://natkalia.github.io/portfolio-coderscamp), [REPO](https://github.com/natkalia/portfolio-coderscamp)
 
 2. These projects were created by me during Kodilla webdev bootcamp, so in some cases part of code and design was not fully created by me. Anyway I was trying to put also some additional custom features to most of these projects :)
-- TODO list with React https://list-react-redux.herokuapp.com/
-- Italian restaurant https://italian-restaurant.herokuapp.com/
-- Dystopias JS page https://natkalia.github.io/dystopias-kodilla-6.2/
+- TODO list with React: [DEMO](https://list-react-redux.herokuapp.com/), [REPO](https://github.com/natkalia/todolist-react-kodilla)
+- Italian restaurant eith React: [DEMO](https://italian-restaurant.herokuapp.com/), [REPO](https://github.com/natkalia/pizzeria-portal-kodilla-18.2)
+- Dystopias Javascript page: [DEMO](https://natkalia.github.io/dystopias-kodilla-6.2/), [REPO](https://github.com/natkalia/dystopias-kodilla-6.2)
+- Golden Studio landing page: [DEMO](https://natkalia.github.io/golden-kodilla-4.6/), [REPO](https://github.com/natkalia/golden-kodilla-4.6)
+- World of books: [DEMO](https://natkalia.github.io/bookstore-kodilla-3.4/), [REPO](https://github.com/natkalia/bookstore-kodilla-3.4)
+- Crazy Tomatoes landing page: [DEMO](https://natkalia.github.io/tomatoes-kodilla-2.8/), [REPO](https://github.com/natkalia/tomatoes-kodilla-2.8)
+- James Bond 007 landing page: [DEMO](https://natkalia.github.io/bond-kodilla-1.3/), [REPO](https://natkalia.github.io/bond-kodilla-1.3/)
