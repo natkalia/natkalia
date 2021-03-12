@@ -8,6 +8,8 @@ Using daily:
 Learning additionally:
 :gem: C# :gem: ASP.NET Core :gem: Entity Framework :gem: Fluent Validation :gem: unit testing (frontend and backend) :gem: Newman testing
 
+Tools I have some contact with: Camunda/DMN/BPMN, compodoc (frontend), Fortify, Whitesource
+
 My Linkedin profile: [Natalia Banasiewicz](https://www.linkedin.com/in/nbanasiewicz/)
 
 Some of my projects created mainly in 2019 and beginning of 2020 (both individual and group projects):
