@@ -3,9 +3,9 @@
 My name is Natalia, I am Poland-based fullstack developer.
 
 Using daily:
-:gem: C# :gem: ASP.NET Core :gem: Entity Framework :gem: Fluent Validation :gem: LINQ :gem: unit testing (frontend and backend) :gem: Newman testing
+:fire: C# :fire: ASP.NET Core :fire: Entity Framework :fire: Fluent Validation :fire: LINQ :fire: unit testing (frontend and backend) :fire: Newman testing :fire: HTML5 :fire: Javascript :fire: Typescript :fire: Angular :fire: RxJS :fire: prime NG :fire: CSS :fire: git :fire: Microsoft Azure DevOps :fire: Swagger :fire: Postman :fire: Visual Studio :fire: Visual Studio Code :fire: Chrome Developer Tools :fire: ESLint :fire: TSLint :fire: Confluence :fire: Jira :fire: scrum methodology
 
-:fire: HTML5 :fire: Javascript :fire: Typescript :fire: Angular :fire: RxJS :fire: prime NG :fire: CSS :fire: git :fire: Microsoft Azure DevOps :fire: Swagger :fire: Postman :fire: Visual Studio :fire: Visual Studio Code :fire: Chrome Developer Tools :fire: ESLint :fire: TSLint :fire: Confluence :fire: Jira :fire: scrum methodology
+:gem: Microsoft Certified: Azure Fundamentals AZ-200 :gem:
 
 Also I have some contact with: Camunda/DMN/BPMN, compodoc (frontend), Fortify, Whitesource, OData
 
