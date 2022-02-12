@@ -24,7 +24,7 @@ Some of my projects created mainly in 2019 and beginning of 2020 (both individua
 2. These projects were created by me during Kodilla webdev bootcamp, so in some cases part of code and design was not fully created by me. Anyway I was trying to put also some additional custom features to most of these projects :)
 
   - TODO list with React: [DEMO](https://list-react-redux.herokuapp.com/), [REPO](https://github.com/natkalia/todolist-react-kodilla)
-  - Italian restaurant eith React: [DEMO](https://italian-restaurant.herokuapp.com/), [REPO](https://github.com/natkalia/pizzeria-portal-kodilla-18.2)
+  - Italian restaurant with React: [DEMO](https://italian-restaurant.herokuapp.com/), [REPO](https://github.com/natkalia/pizzeria-portal-kodilla-18.2)
   - Dystopias Javascript page: [DEMO](https://natkalia.github.io/dystopias-kodilla-6.2/), [REPO](https://github.com/natkalia/dystopias-kodilla-6.2)
   - Golden Studio landing page: [DEMO](https://natkalia.github.io/golden-kodilla-4.6/), [REPO](https://github.com/natkalia/golden-kodilla-4.6)
   - World of books: [DEMO](https://natkalia.github.io/bookstore-kodilla-3.4/), [REPO](https://github.com/natkalia/bookstore-kodilla-3.4)
